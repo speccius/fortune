@@ -1,4 +1,4 @@
-local fortunes={
+fortunes={
 "You will forget this",
 "A new perspective will come with the new year",
 "A hunch is creativity trying to tell you something",
