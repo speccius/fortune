@@ -21,4 +21,5 @@ fortunes={
 "New ideas could be profitable",
 }
 math.randomseed(os.time())
+math.random()
 print(fortunes[math.random(1,#fortunes)])
