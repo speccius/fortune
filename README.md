@@ -1,0 +1,2 @@
+# fortune
+Lua fortune generator
